@@ -1,0 +1,8 @@
+/Users/bgillock/firstAspNet/bin/Debug/netcoreapp1.1/firstAspNet.deps.json
+/Users/bgillock/firstAspNet/bin/Debug/netcoreapp1.1/firstAspNet.runtimeconfig.json
+/Users/bgillock/firstAspNet/bin/Debug/netcoreapp1.1/firstAspNet.runtimeconfig.dev.json
+/Users/bgillock/firstAspNet/bin/Debug/netcoreapp1.1/firstAspNet.dll
+/Users/bgillock/firstAspNet/bin/Debug/netcoreapp1.1/firstAspNet.pdb
+/Users/bgillock/firstAspNet/obj/Debug/netcoreapp1.1/firstAspNet.AssemblyInfo.cs
+/Users/bgillock/firstAspNet/obj/Debug/netcoreapp1.1/firstAspNet.dll
+/Users/bgillock/firstAspNet/obj/Debug/netcoreapp1.1/firstAspNet.pdb
